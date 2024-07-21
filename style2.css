@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Code Pro', monospace;;
+}
+@media (max-width: 600px) {
+.page-container {
+    width: 90%;
+}
+}
+.page-container {
+    width: 100%;
+    height: 100vh;
+    background-image:url(noisewallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow-y: scroll;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+p.first-paragraph {
+    color: white;
+    text-align: center;
+    line-height: 2;
+    border: 1px dashed purple;
+    background-color: black;
+}
+h2 {
+    color:red;
+    position: relative;
+    margin: 20px 0;
+    text-align: center;
+}
+li:nth-child(1){
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed green;
+    background-color: black;
+}
+li:nth-child(2){
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed purple;
+    background-color: black;
+}
+li:nth-child(3){
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed green;
+    background-color: black;
+}
+li:nth-child(4) {
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed purple;
+    background-color: black;
+}
+li:nth-child(5) {
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed green;
+    background-color: black;
+}
+li:nth-child(6) {
+    color: white;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px 0;
+    border: 1px dashed purple;
+    background-color: black;
+}
+h3 {
+    color:blue;
+    text-align: center;
+}
