@@ -3,8 +3,16 @@ Hi, I hope you guys enjoy this website. This is the first ever website that I ev
 
 This website in particular was made with ChatGPT-3. This is when ChatGPT just recently came out in November 2022. 
 
-I remember being in my Pre-Clac class and telling everyone im going to make a website, and im going to complete in a week. 
+*I remember being in my Pre-Clac class and telling everyone im going to make a website, and im going to complete in a week.*
 
 Thankfully, I was bless enough to finish at that time period I put myself in.
+
+As for how I completed, this website here is the process I took to complete it. 
+
+Note, that I didn't have no coding experience with HTML & CSS and I had no idea how to create a website. 
+
+Just like always, I went in blindfolded into making this project. 
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 
