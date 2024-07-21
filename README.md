@@ -30,3 +30,35 @@ Later on, that was a problem
 
 Second Day 
 ----------
+
+After, watching the Youtube video, I tried to make a website.......
+
+I was lost, even though I watched the tutorial, I was still lost. 
+
+Since, the time to finish this project was this week, I had to look up a youtube video on how people start to make a website. 
+
+Meaning a website template of the project 
+
+Then, I saw this Youtube video 
+
+Link: https://www.youtube.com/watch?v=PgAZ8KzfhO8
+
+I was like 
+
+Me: *Alright, I think got it* 
+
+I proceed to ask code for the first time, and downloading extensions such as Live Server, I started coding without AI. I coded but....
+
+*It was diaster* 
+
+I took me 3 to 5 hours in to the coding that I was making a mistake, that mistake is what I did wrong in the First Day, which was not being able to  
+come up with a layout and what did I want the website to do
+
+Thus, I stopped and was thinking......kept on thinking.... then watched a movie..... then came up with a idea 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Third day 
+---------
+
+Alright, I got the idea. Now, let use this ChatGPT to see what it could do 
