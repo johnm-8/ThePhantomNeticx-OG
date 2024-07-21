@@ -15,4 +15,18 @@ Just like always, I went in blindfolded into making this project.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+First Day 
+---------
 
+Watch a Youtube Channel named "CodewithMosh" - HTML and CSS Tutorial 
+
+Link: https://www.youtube.com/watch?v=qz0aGYrrlhU
+
+Wrote some notes and start to plan out with my head without writing or drawing a layout of the website 
+
+Later on, that was a problem
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Second Day 
+----------
